@@ -1,5 +1,5 @@
 # 💰 My Personal Expense Tracker
-A simple **personal expense tracker** built with **Streamlit** and **Python** to manage your daily expenses, set budgets, and visualize spending. Works on PC and mobile browsers.
+A simple **personal expense tracker** built with **Streamlit** and **Python** to manage your daily expenses, set budgets, and visualize spending. Works on PC and mobile browsers.<br>
 You can directly open the app using the url:https://expense-tracker-username003322.streamlit.app/
 
 ## Features
@@ -19,7 +19,7 @@ You can directly open the app using the url:https://expense-tracker-username0033
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/YourUsername/First_project.git
+git clone https://github.com/AnujWagmore/First_project.git
 cd First_project
 
 2. Install dependencies:
