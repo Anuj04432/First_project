@@ -32,10 +32,10 @@ streamlit run expense_tracker.py
 - Enter a username to keep data separate  
 - Use the sidebar menu to add expenses, view summary, set budget, view graphs, export data, or clear expenses
 
-##Deployment
+## Deployment
 Deployed on Streamlit Cloud: https://share.streamlit.io
 
-##License
+## License
 MIT License
 
 
