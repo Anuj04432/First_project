@@ -17,11 +17,13 @@ A simple **personal expense tracker** built with **Streamlit** and **Python** to
 - **CSV** files for storage  
 
 ## Installation
-
 1. Clone the repository:
-
-```bash
 git clone https://github.com/YourUsername/First_project.git
 cd First_project
+
+2.Install required packages:
+pip install -r requirements.txt
+If requirements.txt is not available:
+pip install streamlit pandas matplotlib
 
 
