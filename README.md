@@ -21,9 +21,24 @@ A simple **personal expense tracker** built with **Streamlit** and **Python** to
 git clone https://github.com/YourUsername/First_project.git
 cd First_project
 
-2.Install required packages:
-pip install -r requirements.txt
-If requirements.txt is not available:
+2. Install dependencies:
 pip install streamlit pandas matplotlib
+
+## Usage
+How to run and use the app
+Example:
+Run the app:
+streamlit run expense_tracker.py
+- Enter a username to keep data separate  
+- Use the sidebar menu to add expenses, view summary, set budget, view graphs, export data, or clear expenses
+
+##Deployment
+Deployed on Streamlit Cloud: https://share.streamlit.io
+
+##License
+MIT License
+
+
+
 
 
