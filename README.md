@@ -1,5 +1,6 @@
 # 💰 My Personal Expense Tracker
 A simple **personal expense tracker** built with **Streamlit** and **Python** to manage your daily expenses, set budgets, and visualize spending. Works on PC and mobile browsers.
+You can directly open the app using the url:https://expense-tracker-username003322.streamlit.app/
 
 ## Features
 - ➕ **Add Expense**: Log expenses with category, amount, and optional notes  
@@ -33,7 +34,7 @@ streamlit run expense_tracker.py
 - Use the sidebar menu to add expenses, view summary, set budget, view graphs, export data, or clear expenses
 
 ## Deployment
-Deployed on Streamlit Cloud: https://share.streamlit.io
+Deployed on Streamlit Cloud: https://expense-tracker-username003322.streamlit.app
 
 ## License
 MIT License
